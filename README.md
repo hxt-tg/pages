@@ -1,3 +1,3 @@
 ## Main page
 
-### Page1: [files](files/test.md)
+### Page1: [files](files)
